@@ -1,4 +1,4 @@
-This repository demonstrates the inclusion of `jest.mock()` (even in a comment) when using `@testing-library/react` in conjunction with `esbuild-test` causes the test environment to break.
+This repository demonstrates the inclusion of `jest.mock()` (even in a comment) when using `@testing-library/react` in conjunction with `esbuild-jest` causes the test environment to break.
 
 ### Reproduction
 ```bash
